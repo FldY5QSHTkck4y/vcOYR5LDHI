@@ -13,3 +13,13 @@ npm start
 ```bash
 npm run dev
 ```
+
+### Build React 
+```bash
+npm run build
+```
+
+### Build Electron 
+```bash
+npm run ebuild
+```
